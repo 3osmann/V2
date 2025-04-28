@@ -66,6 +66,10 @@ export const MY_STACK = {
             name: 'Laravel',
             icon: '/logo/Laravel.svg.png',
         },
+        {
+            name: 'Symfony',
+            icon: '/logo/symfony.png',
+        },
          {
             name: 'codeigniter',
             icon: '/logo/codeigniter.png',
@@ -81,6 +85,10 @@ export const MY_STACK = {
         {
             name: 'Express.js',
             icon: '/logo/express.png',
+        },
+        {
+            name: 'wordpress',
+            icon: '/logo/wordpress.png',
         },
     ],
     database: [
