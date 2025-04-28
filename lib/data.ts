@@ -20,6 +20,10 @@ export const SOCIAL_LINKS = [
 export const MY_STACK = {
     frontend: [
         {
+            name: 'Laravel',
+            icon: '/logo/Laravel.svg.png',
+        },
+        {
             name: 'Javascript',
             icon: '/logo/js.png',
         },
