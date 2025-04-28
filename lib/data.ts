@@ -6,23 +6,20 @@ export const GENERAL_INFO = {
     emailSubject: "Let's collaborate on a project",
     emailBody: 'Hi issam, I am reaching out to you because...',
 
-    oldPortfolio: 'https://www.legacy.me.toinfinite.dev',
+    oldPortfolio: 'https://portfilio-issam.vercel.app/',
     upworkProfile: 'https://www.freelancer.com/u/issamkhabbouchi',
 };
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: '' },
-    { name: 'linkedin', url: '' },
-    { name: 'facebook', url: '' },
+    { name: 'github', url: 'https://github.com/3osmann' },
+    { name: 'linkedin', url: 'https://www.linkedin.com/in/issam-khabouchi-302a73135/' },
+    { name: 'facebook', url: 'https://www.facebook.com/issam.khabbouchi' },
     { name: 'Old Version', url: GENERAL_INFO.oldPortfolio },
 ];
 
 export const MY_STACK = {
     frontend: [
-        {
-            name: 'Laravel',
-            icon: '/logo/Laravel.svg.png',
-        },
+       
         {
             name: 'Javascript',
             icon: '/logo/js.png',
@@ -65,6 +62,14 @@ export const MY_STACK = {
         },
     ],
     backend: [
+         {
+            name: 'Laravel',
+            icon: '/logo/Laravel.svg.png',
+        },
+         {
+            name: 'codeigniter',
+            icon: '/logo/codeigniter.png',
+        },
         {
             name: 'Node.js',
             icon: '/logo/node.png',
