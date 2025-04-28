@@ -1,6 +1,6 @@
 # 🚀 My Portfolio Website
 
-![image](public/logoscreen-v2.png)
+![image](screen-v2.png)
 
 ## 🚨 Forking this repo (please read!)
 
