@@ -58,8 +58,7 @@ const Preloader = () => {
                 <span className="inline-block translate-y-full">S</span>
                 <span className="inline-block translate-y-full">S</span>
                 <span className="inline-block translate-y-full">A</span>
-                <span className="inline-block translate-y-full">M</span>
-                <span className="inline-block translate-y-full">{ ' ' }</span>
+                <span className="inline-block translate-y-full" style={{ marginBottom: '20px' }}>M</span>
                 <span className="inline-block translate-y-full">K</span>
                 <span className="inline-block translate-y-full">H</span>
                 <span className="inline-block translate-y-full">A</span>
