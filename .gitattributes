@@ -1,0 +1,7 @@
+ملفات filter=lfs diff=lfs merge=lfs -text
+كبيرة filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+مثلا filter=lfs diff=lfs merge=lfs -text
+public/videos/bigfile.mp4 filter=lfs diff=lfs merge=lfs -text
+node_modules/.pnpm/@next+swc-win32-x64-msvc@15.2.0/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node filter=lfs diff=lfs merge=lfs -text
