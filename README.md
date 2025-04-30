@@ -14,7 +14,7 @@ If you like my work, give it a star⭐.
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [me.toinfinite.dev](https://www.me.toinfinite.dev/). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [me.issamos.dev](https://portfilio-issam-v2.vercel.app/). Thanks!
 
 ## 🛠 Installation & Set Up
 
