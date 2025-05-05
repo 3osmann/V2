@@ -290,11 +290,11 @@ export const PROJECTS: IProject[] = [
             'React Hook Form',
             'Vercel',
         ],
-        thumbnail: 'screen-v2.png',
-        longThumbnail: 'screen-v2.png',
+        thumbnail: '/projects/thumbnail/screen-v2.png',
+        longThumbnail: '/projects/long/screen-v2.png',
         images: [
-            'screen-v2.png',
-            'screen-v2.png',
+            '/projects/images/screen-v2.png',
+            '/projects/images/screen-v2.png',
         ],
     },
     //forth project
