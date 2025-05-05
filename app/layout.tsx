@@ -29,8 +29,8 @@ const robotoFlex = Roboto_Flex({
 });
 
 export const metadata: Metadata = {
-    title: 'Portfolio - Tajmirul Islam',
-    description: 'Personal portfolio of Tajmirul Islam',
+    title: 'Portfolio - Khabouchi issam',
+    description: 'Personal portfolio of Khabouchi issam',
 };
 
 export default function RootLayout({
@@ -61,14 +61,7 @@ export default function RootLayout({
                         duration: 1.4,
                     }}
                 >
-                    <a
-                        href="https://forms.gle/koQRNCbiJ99iTEXP9"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block bg-black text-center z-[1] text-sm py-2 hover:text-primary transition-all"
-                    >
-                        Take a 2-min survey for developers!
-                    </a>
+                    
                     <Navbar />
                     <main>{children}</main>
                     <Footer />
