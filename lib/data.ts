@@ -176,12 +176,10 @@ export const PROJECTS: IProject[] = [
       </ul>
       `,
         techStack: [
-            'Next.js',
+            'WordPress',
             'Payload CMS',
-            'Tailwind CSS',
-            'shadcn',
-            'Swiper.js',
-            'React Hook Form',
+            'Bootstrap',
+            'Elementor Pro',
             'Vercel',
         ],
         thumbnail: '/projects/thumbnail/procar.041c62c696c3941532b5.png',
