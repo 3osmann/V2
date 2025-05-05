@@ -184,8 +184,8 @@ export const PROJECTS: IProject[] = [
             'React Hook Form',
             'Vercel',
         ],
-        thumbnail: '/projects/thumbnail/mti-electronics.webp',
-        longThumbnail: '/projects/long/mti-electronics.webp',
+        thumbnail: '/projects/thumbnail/procar.041c62c696c3941532b5.png',
+        longThumbnail: '/projects/long/procar.041c62c696c3941532b5.png',
         images: [
             '/projects/images/procar.041c62c696c3941532b5.png',
             '/projects/images/procar.041c62c696c3941532b5.png',
