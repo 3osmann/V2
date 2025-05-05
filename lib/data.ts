@@ -689,17 +689,17 @@ export const PROJECTS: IProject[] = [
         role: ``,
     },
      {
-        title: 'devLinks',
-        slug: 'devLinks',
+        title: 'Solarmag',
+        slug: 'Solarmag',
         techStack: ['Next.js', 'Formik', 'Drag & Drop', 'Tailwind CSS'],
         thumbnail: '/projects/thumbnail/devLinks.jpg',
         longThumbnail: '/projects/long/devLinks.jpg',
         images: [
-            '/projects/images/devLinks-1.png',
-            '/projects/images/devLinks-2.png',
-            '/projects/images/devLinks-3.png',
+            '/projects/images/solar.5209bb43a749f14ed14a.png',
+            '/projects/images/solar.5209bb43a749f14ed14a.png',
+            '/projects/images/solar.5209bb43a749f14ed14a.png',
         ],
-        sourceCode: 'https://github.com/Tajmirul/devsLink',
+        sourceCode: 'https://github.com/3osmann/devsLink',
         liveUrl: 'https://devlinks-demo.vercel.app/auth/signin',
         year: 2023,
         description: `One of the most challenging projects in Frontend Mentor.<br/><br/>
