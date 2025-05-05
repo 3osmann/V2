@@ -436,9 +436,9 @@ export const PROJECTS: IProject[] = [
         - Delivered a responsive, user-friendly interface in collaboration with the UI/UX designer.`,
     },
      {
-        title: 'PRO  CAR',
-        slug: 'pro-car',
-        liveUrl: 'http://www.procar.great-site.net/',
+        title: 'Leadiya',
+        slug: 'Leadiya',
+        liveUrl: 'https://leadiya.com/',
         year: 2025,
         description: `
       A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
@@ -473,7 +473,7 @@ export const PROJECTS: IProject[] = [
       </ul>
       `,
         techStack: [
-            'Next.js',
+            'Laravel',
             'Payload CMS',
             'Tailwind CSS',
             'shadcn',
@@ -481,11 +481,11 @@ export const PROJECTS: IProject[] = [
             'React Hook Form',
             'Vercel',
         ],
-        thumbnail: '/projects/thumbnail/mti-electronics.webp',
-        longThumbnail: '/projects/long/mti-electronics.webp',
+        thumbnail: '/projects/thumbnail/leadiya.1a1b052d9cf1f5ac880d.png',
+        longThumbnail: '/projects/long/leadiya.1a1b052d9cf1f5ac880d.png',
         images: [
-            '/projects/images/mti-electronics-1.webp',
-            '/projects/images/mti-electronics-2.webp',
+            '/projects/images/leadiya.1a1b052d9cf1f5ac880d.png',
+            '/projects/images/leadiya.1a1b052d9cf1f5ac880d.png',
         ],
     },
     //six project
