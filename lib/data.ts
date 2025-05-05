@@ -488,6 +488,59 @@ export const PROJECTS: IProject[] = [
             '/projects/images/leadiya.1a1b052d9cf1f5ac880d.png',
         ],
     },
+    {
+        title: 'ITS',
+        slug: 'ITS',
+        liveUrl: 'https://itsforma.com/',
+        year: 2025,
+        description: `
+      A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
+      
+      Key Features:<br/>
+      <ul>
+        <li>🛠️ Service Display System: Interactive service showcase with synchronized sliders</li>
+        <li>✍️ Blog Management: SEO-friendly blog with categorization and search</li>
+        <li>🛒 Product Catalog: Organized product display with filtering capabilities</li>
+        <li>📱 Fully Responsive: Optimized for all device sizes</li>
+        <li>⚡ Fast Performance: Optimized Wordpress</li>
+      </ul><br/>
+      
+      Technical Highlights:
+      <ul>
+        <li>Implemented complex slider synchronization logic using Swiper.js</li>
+        <li>Customized Payload CMS admin panel for intuitive content management</li>
+        <li>Developed reusable UI components with shadcn for design consistency</li>
+        <li>Configured efficient data fetching strategies in Next.js</li>
+      </ul>
+      `,
+        role: `
+      Full-Stack Developer <br/>
+      Owned the entire development lifecycle:
+      <ul>
+        <li>✅ Backend: Configured Payload CMS with custom collections for services, blogs, and products</li>
+        <li>🎨 Frontend: Built all UI components using Tailwind CSS and shadcn</li>
+        <li>🔄 State Management: Implemented client-side data fetching and caching</li>
+        <li>🖥️ CMS Customization: Created admin interfaces for content editors</li>
+        <li>🚀 Deployment: Set up CI/CD pipeline for Vercel hosting</li>
+        <li>🧩 Third-Party Integration: Added Swiper.js for interactive sliders</li>
+      </ul>
+      `,
+        techStack: [
+            'Laravel',
+            'Payload CMS',
+            'Tailwind CSS',
+            'shadcn',
+            'Swiper.js',
+            'React Hook Form',
+            'Vercel',
+        ],
+        thumbnail: '/projects/thumbnail/its.7478595d9ecc6cc19e7e.png',
+        longThumbnail: '/projects/long/its.7478595d9ecc6cc19e7e.png',
+        images: [
+            '/projects/images/its.7478595d9ecc6cc19e7e.png',
+            '/projects/images/its.7478595d9ecc6cc19e7e.png',
+        ],
+    },
     //six project
     {
         title: 'Resume Roaster',
@@ -617,6 +670,25 @@ export const PROJECTS: IProject[] = [
     },
      //six project
     {
+        title: 'devLinks',
+        slug: 'devLinks',
+        techStack: ['Next.js', 'Formik', 'Drag & Drop', 'Tailwind CSS'],
+        thumbnail: '/projects/thumbnail/devLinks.jpg',
+        longThumbnail: '/projects/long/devLinks.jpg',
+        images: [
+            '/projects/images/devLinks-1.png',
+            '/projects/images/devLinks-2.png',
+            '/projects/images/devLinks-3.png',
+        ],
+        sourceCode: 'https://github.com/Tajmirul/devsLink',
+        liveUrl: 'https://devlinks-demo.vercel.app/auth/signin',
+        year: 2023,
+        description: `One of the most challenging projects in Frontend Mentor.<br/><br/>
+
+            I developed a LinkSharing App as part of the Frontend Mentor challenge, utilizing React, Redux, and Tailwind CSS to create a responsive and feature-rich platform. The app allows users to share, save, and explore links, with a focus on intuitive design and smooth navigation. Advanced state management ensures efficient data handling for user interactions.`,
+        role: ``,
+    },
+     {
         title: 'devLinks',
         slug: 'devLinks',
         techStack: ['Next.js', 'Formik', 'Drag & Drop', 'Tailwind CSS'],
