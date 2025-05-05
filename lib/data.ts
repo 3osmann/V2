@@ -692,8 +692,8 @@ export const PROJECTS: IProject[] = [
         title: 'Solarmag',
         slug: 'Solarmag',
         techStack: ['Next.js', 'Formik', 'Drag & Drop', 'Tailwind CSS'],
-        thumbnail: '/projects/thumbnail/devLinks.jpg',
-        longThumbnail: '/projects/long/devLinks.jpg',
+        thumbnail: '/projects/thumbnail/solar.5209bb43a749f14ed14a.png',
+        longThumbnail: '/projects/long/solar.5209bb43a749f14ed14a.png',
         images: [
             '/projects/images/solar.5209bb43a749f14ed14a.png',
             '/projects/images/solar.5209bb43a749f14ed14a.png',
