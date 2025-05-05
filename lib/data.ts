@@ -516,9 +516,9 @@ export const PROJECTS: IProject[] = [
         - Implemented complex SQL queries, including one to identify the top two resumes based on user points.`,
     },
       {
-        title: 'PRO  CAR',
-        slug: 'pro-car',
-        liveUrl: 'http://www.procar.great-site.net/',
+        title: 'Broker link',
+        slug: 'Broker-link',
+        liveUrl: 'https://brokerlink.ae/',
         year: 2025,
         description: `
       A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
@@ -553,7 +553,7 @@ export const PROJECTS: IProject[] = [
       </ul>
       `,
         techStack: [
-            'Next.js',
+            'Lravel ',
             'Payload CMS',
             'Tailwind CSS',
             'shadcn',
@@ -561,11 +561,11 @@ export const PROJECTS: IProject[] = [
             'React Hook Form',
             'Vercel',
         ],
-        thumbnail: '/projects/thumbnail/mti-electronics.webp',
-        longThumbnail: '/projects/long/mti-electronics.webp',
+        thumbnail: '/projects/thumbnail/brokerlink.268d4d5f63ccb01504ca.png',
+        longThumbnail: '/projects/long/brokerlink.268d4d5f63ccb01504ca.png',
         images: [
-            '/projects/images/mti-electronics-1.webp',
-            '/projects/images/mti-electronics-2.webp',
+            '/projects/images/brokerlink.268d4d5f63ccb01504ca.png',
+            '/projects/images/brokerlink.268d4d5f63ccb01504ca.png',
         ],
     },
     //sevenproject
