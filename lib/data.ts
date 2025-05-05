@@ -302,7 +302,7 @@ export const PROJECTS: IProject[] = [
         title: 'carthagea',
         slug: 'carthagea',
         liveUrl: 'https://www.carthagea.fr/',
-        year: 2025,
+        year: 2023,
         description: `
       A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
       
