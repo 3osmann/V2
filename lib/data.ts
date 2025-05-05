@@ -187,11 +187,173 @@ export const PROJECTS: IProject[] = [
         thumbnail: '/projects/thumbnail/mti-electronics.webp',
         longThumbnail: '/projects/long/mti-electronics.webp',
         images: [
+            '/projects/images/procar.041c62c696c3941532b5.png',
+            '/projects/images/procar.041c62c696c3941532b5.png',
+        ],
+    },
+    //second project
+     {
+        title: 'PRO  CAR',
+        slug: 'pro-car',
+        liveUrl: 'http://www.procar.great-site.net/',
+        year: 2025,
+        description: `
+      A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
+      
+      Key Features:<br/>
+      <ul>
+        <li>🛠️ Service Display System: Interactive service showcase with synchronized sliders</li>
+        <li>✍️ Blog Management: SEO-friendly blog with categorization and search</li>
+        <li>🛒 Product Catalog: Organized product display with filtering capabilities</li>
+        <li>📱 Fully Responsive: Optimized for all device sizes</li>
+        <li>⚡ Fast Performance: Optimized Wordpress</li>
+      </ul><br/>
+      
+      Technical Highlights:
+      <ul>
+        <li>Implemented complex slider synchronization logic using Swiper.js</li>
+        <li>Customized Payload CMS admin panel for intuitive content management</li>
+        <li>Developed reusable UI components with shadcn for design consistency</li>
+        <li>Configured efficient data fetching strategies in Next.js</li>
+      </ul>
+      `,
+        role: `
+      Full-Stack Developer <br/>
+      Owned the entire development lifecycle:
+      <ul>
+        <li>✅ Backend: Configured Payload CMS with custom collections for services, blogs, and products</li>
+        <li>🎨 Frontend: Built all UI components using Tailwind CSS and shadcn</li>
+        <li>🔄 State Management: Implemented client-side data fetching and caching</li>
+        <li>🖥️ CMS Customization: Created admin interfaces for content editors</li>
+        <li>🚀 Deployment: Set up CI/CD pipeline for Vercel hosting</li>
+        <li>🧩 Third-Party Integration: Added Swiper.js for interactive sliders</li>
+      </ul>
+      `,
+        techStack: [
+            'Next.js',
+            'Payload CMS',
+            'Tailwind CSS',
+            'shadcn',
+            'Swiper.js',
+            'React Hook Form',
+            'Vercel',
+        ],
+        thumbnail: '/projects/thumbnail/mti-electronics.webp',
+        longThumbnail: '/projects/long/mti-electronics.webp',
+        images: [
             '/projects/images/mti-electronics-1.webp',
             '/projects/images/mti-electronics-2.webp',
         ],
     },
-    //second project
+    //third project
+     {
+        title: 'PRO  CAR',
+        slug: 'pro-car',
+        liveUrl: 'http://www.procar.great-site.net/',
+        year: 2025,
+        description: `
+      A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
+      
+      Key Features:<br/>
+      <ul>
+        <li>🛠️ Service Display System: Interactive service showcase with synchronized sliders</li>
+        <li>✍️ Blog Management: SEO-friendly blog with categorization and search</li>
+        <li>🛒 Product Catalog: Organized product display with filtering capabilities</li>
+        <li>📱 Fully Responsive: Optimized for all device sizes</li>
+        <li>⚡ Fast Performance: Optimized Wordpress</li>
+      </ul><br/>
+      
+      Technical Highlights:
+      <ul>
+        <li>Implemented complex slider synchronization logic using Swiper.js</li>
+        <li>Customized Payload CMS admin panel for intuitive content management</li>
+        <li>Developed reusable UI components with shadcn for design consistency</li>
+        <li>Configured efficient data fetching strategies in Next.js</li>
+      </ul>
+      `,
+        role: `
+      Full-Stack Developer <br/>
+      Owned the entire development lifecycle:
+      <ul>
+        <li>✅ Backend: Configured Payload CMS with custom collections for services, blogs, and products</li>
+        <li>🎨 Frontend: Built all UI components using Tailwind CSS and shadcn</li>
+        <li>🔄 State Management: Implemented client-side data fetching and caching</li>
+        <li>🖥️ CMS Customization: Created admin interfaces for content editors</li>
+        <li>🚀 Deployment: Set up CI/CD pipeline for Vercel hosting</li>
+        <li>🧩 Third-Party Integration: Added Swiper.js for interactive sliders</li>
+      </ul>
+      `,
+        techStack: [
+            'Next.js',
+            'Payload CMS',
+            'Tailwind CSS',
+            'shadcn',
+            'Swiper.js',
+            'React Hook Form',
+            'Vercel',
+        ],
+        thumbnail: '/projects/thumbnail/mti-electronics.webp',
+        longThumbnail: '/projects/long/mti-electronics.webp',
+        images: [
+            '/projects/images/mti-electronics-1.webp',
+            '/projects/images/mti-electronics-2.webp',
+        ],
+    },
+    //forth project
+     {
+        title: 'PRO  CAR',
+        slug: 'pro-car',
+        liveUrl: 'http://www.procar.great-site.net/',
+        year: 2025,
+        description: `
+      A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
+      
+      Key Features:<br/>
+      <ul>
+        <li>🛠️ Service Display System: Interactive service showcase with synchronized sliders</li>
+        <li>✍️ Blog Management: SEO-friendly blog with categorization and search</li>
+        <li>🛒 Product Catalog: Organized product display with filtering capabilities</li>
+        <li>📱 Fully Responsive: Optimized for all device sizes</li>
+        <li>⚡ Fast Performance: Optimized Wordpress</li>
+      </ul><br/>
+      
+      Technical Highlights:
+      <ul>
+        <li>Implemented complex slider synchronization logic using Swiper.js</li>
+        <li>Customized Payload CMS admin panel for intuitive content management</li>
+        <li>Developed reusable UI components with shadcn for design consistency</li>
+        <li>Configured efficient data fetching strategies in Next.js</li>
+      </ul>
+      `,
+        role: `
+      Full-Stack Developer <br/>
+      Owned the entire development lifecycle:
+      <ul>
+        <li>✅ Backend: Configured Payload CMS with custom collections for services, blogs, and products</li>
+        <li>🎨 Frontend: Built all UI components using Tailwind CSS and shadcn</li>
+        <li>🔄 State Management: Implemented client-side data fetching and caching</li>
+        <li>🖥️ CMS Customization: Created admin interfaces for content editors</li>
+        <li>🚀 Deployment: Set up CI/CD pipeline for Vercel hosting</li>
+        <li>🧩 Third-Party Integration: Added Swiper.js for interactive sliders</li>
+      </ul>
+      `,
+        techStack: [
+            'Next.js',
+            'Payload CMS',
+            'Tailwind CSS',
+            'shadcn',
+            'Swiper.js',
+            'React Hook Form',
+            'Vercel',
+        ],
+        thumbnail: '/projects/thumbnail/mti-electronics.webp',
+        longThumbnail: '/projects/long/mti-electronics.webp',
+        images: [
+            '/projects/images/mti-electronics-1.webp',
+            '/projects/images/mti-electronics-2.webp',
+        ],
+    },
+    //five project
     {
         title: 'MTI Electronics',
         slug: 'mti-electronics',
@@ -275,7 +437,60 @@ export const PROJECTS: IProject[] = [
         - Integrated multi-language support with React i18n, including RTL handling.<br/>
         - Delivered a responsive, user-friendly interface in collaboration with the UI/UX designer.`,
     },
-    //Third project
+     {
+        title: 'PRO  CAR',
+        slug: 'pro-car',
+        liveUrl: 'http://www.procar.great-site.net/',
+        year: 2025,
+        description: `
+      A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
+      
+      Key Features:<br/>
+      <ul>
+        <li>🛠️ Service Display System: Interactive service showcase with synchronized sliders</li>
+        <li>✍️ Blog Management: SEO-friendly blog with categorization and search</li>
+        <li>🛒 Product Catalog: Organized product display with filtering capabilities</li>
+        <li>📱 Fully Responsive: Optimized for all device sizes</li>
+        <li>⚡ Fast Performance: Optimized Wordpress</li>
+      </ul><br/>
+      
+      Technical Highlights:
+      <ul>
+        <li>Implemented complex slider synchronization logic using Swiper.js</li>
+        <li>Customized Payload CMS admin panel for intuitive content management</li>
+        <li>Developed reusable UI components with shadcn for design consistency</li>
+        <li>Configured efficient data fetching strategies in Next.js</li>
+      </ul>
+      `,
+        role: `
+      Full-Stack Developer <br/>
+      Owned the entire development lifecycle:
+      <ul>
+        <li>✅ Backend: Configured Payload CMS with custom collections for services, blogs, and products</li>
+        <li>🎨 Frontend: Built all UI components using Tailwind CSS and shadcn</li>
+        <li>🔄 State Management: Implemented client-side data fetching and caching</li>
+        <li>🖥️ CMS Customization: Created admin interfaces for content editors</li>
+        <li>🚀 Deployment: Set up CI/CD pipeline for Vercel hosting</li>
+        <li>🧩 Third-Party Integration: Added Swiper.js for interactive sliders</li>
+      </ul>
+      `,
+        techStack: [
+            'Next.js',
+            'Payload CMS',
+            'Tailwind CSS',
+            'shadcn',
+            'Swiper.js',
+            'React Hook Form',
+            'Vercel',
+        ],
+        thumbnail: '/projects/thumbnail/mti-electronics.webp',
+        longThumbnail: '/projects/long/mti-electronics.webp',
+        images: [
+            '/projects/images/mti-electronics-1.webp',
+            '/projects/images/mti-electronics-2.webp',
+        ],
+    },
+    //six project
     {
         title: 'Resume Roaster',
         slug: 'resume-roaster',
@@ -302,7 +517,60 @@ export const PROJECTS: IProject[] = [
         - Integrated GPT-4 for AI-driven feedback and insights.<br/>
         - Implemented complex SQL queries, including one to identify the top two resumes based on user points.`,
     },
-     //forth project
+      {
+        title: 'PRO  CAR',
+        slug: 'pro-car',
+        liveUrl: 'http://www.procar.great-site.net/',
+        year: 2025,
+        description: `
+      A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
+      
+      Key Features:<br/>
+      <ul>
+        <li>🛠️ Service Display System: Interactive service showcase with synchronized sliders</li>
+        <li>✍️ Blog Management: SEO-friendly blog with categorization and search</li>
+        <li>🛒 Product Catalog: Organized product display with filtering capabilities</li>
+        <li>📱 Fully Responsive: Optimized for all device sizes</li>
+        <li>⚡ Fast Performance: Optimized Wordpress</li>
+      </ul><br/>
+      
+      Technical Highlights:
+      <ul>
+        <li>Implemented complex slider synchronization logic using Swiper.js</li>
+        <li>Customized Payload CMS admin panel for intuitive content management</li>
+        <li>Developed reusable UI components with shadcn for design consistency</li>
+        <li>Configured efficient data fetching strategies in Next.js</li>
+      </ul>
+      `,
+        role: `
+      Full-Stack Developer <br/>
+      Owned the entire development lifecycle:
+      <ul>
+        <li>✅ Backend: Configured Payload CMS with custom collections for services, blogs, and products</li>
+        <li>🎨 Frontend: Built all UI components using Tailwind CSS and shadcn</li>
+        <li>🔄 State Management: Implemented client-side data fetching and caching</li>
+        <li>🖥️ CMS Customization: Created admin interfaces for content editors</li>
+        <li>🚀 Deployment: Set up CI/CD pipeline for Vercel hosting</li>
+        <li>🧩 Third-Party Integration: Added Swiper.js for interactive sliders</li>
+      </ul>
+      `,
+        techStack: [
+            'Next.js',
+            'Payload CMS',
+            'Tailwind CSS',
+            'shadcn',
+            'Swiper.js',
+            'React Hook Form',
+            'Vercel',
+        ],
+        thumbnail: '/projects/thumbnail/mti-electronics.webp',
+        longThumbnail: '/projects/long/mti-electronics.webp',
+        images: [
+            '/projects/images/mti-electronics-1.webp',
+            '/projects/images/mti-electronics-2.webp',
+        ],
+    },
+    //sevenproject
     {
         title: 'Real Estate',
         slug: 'property-pro',
