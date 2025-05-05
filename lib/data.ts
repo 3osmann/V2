@@ -153,6 +153,7 @@ export const MY_STACK = {
 };
 
 export const PROJECTS: IProject[] = [
+    //First project
      {
         title: 'PRO  CAR',
         slug: 'pro-car',
@@ -206,6 +207,7 @@ export const PROJECTS: IProject[] = [
             '/projects/images/mti-electronics-2.webp',
         ],
     },
+    //second project
     {
         title: 'MTI Electronics',
         slug: 'mti-electronics',
@@ -289,6 +291,7 @@ export const PROJECTS: IProject[] = [
         - Integrated multi-language support with React i18n, including RTL handling.<br/>
         - Delivered a responsive, user-friendly interface in collaboration with the UI/UX designer.`,
     },
+    //Third project
     {
         title: 'Resume Roaster',
         slug: 'resume-roaster',
@@ -315,6 +318,7 @@ export const PROJECTS: IProject[] = [
         - Integrated GPT-4 for AI-driven feedback and insights.<br/>
         - Implemented complex SQL queries, including one to identify the top two resumes based on user points.`,
     },
+     //forth project
     {
         title: 'Real Estate',
         slug: 'property-pro',
@@ -342,6 +346,7 @@ export const PROJECTS: IProject[] = [
         - Implemented multi-language support with React i18n to cater to diverse audiences.<br/>
         - Enhanced user interaction with animations and transitions using Framer Motion.`,
     },
+     //Fivfh project
     {
         title: 'Consulting Finance',
         slug: 'crenotive',
@@ -360,6 +365,7 @@ export const PROJECTS: IProject[] = [
             'I developed Crenotive, a portfolio website using Html, SASS, and jQuery to showcase services and expertise. The design focuses on responsive user experience and effective presentation of professional achievements.',
         role: ``,
     },
+     //six project
     {
         title: 'devLinks',
         slug: 'devLinks',
