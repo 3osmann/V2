@@ -192,7 +192,7 @@ export const PROJECTS: IProject[] = [
     //second project
      {
         title: 'Portfolio V1',
-        slug: 'Portfilio Issam V1',
+        slug: 'Portfilio-Issam-V1',
         liveUrl: 'https://portfilio-issam.vercel.app/',
         year: 2025,
         description: `
@@ -246,7 +246,7 @@ export const PROJECTS: IProject[] = [
     //third project
      {
         title: 'Portfolio V2',
-        slug: 'Portfilio Issam V2',
+        slug: 'Portfilio-Issam-V2',
         liveUrl: 'https://portfolio-issam-v2.netlify.app/',
         year: 2025,
         description: `
