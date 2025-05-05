@@ -245,12 +245,12 @@ export const PROJECTS: IProject[] = [
     },
     //third project
      {
-        title: 'PRO  CAR',
-        slug: 'pro-car',
-        liveUrl: 'http://www.procar.great-site.net/',
+        title: 'Portfolio V2',
+        slug: 'Portfilio Issam V2',
+        liveUrl: 'https://portfolio-issam-v2.netlify.app/',
         year: 2025,
         description: `
-      A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
+      A complete personel portfolio  built for issam khabouchi . <br/> <br/>
       
       Key Features:<br/>
       <ul>
@@ -290,11 +290,11 @@ export const PROJECTS: IProject[] = [
             'React Hook Form',
             'Vercel',
         ],
-        thumbnail: '/projects/thumbnail/mti-electronics.webp',
-        longThumbnail: '/projects/long/mti-electronics.webp',
+        thumbnail: 'screen-v2.png',
+        longThumbnail: 'screen-v2.png',
         images: [
-            '/projects/images/mti-electronics-1.webp',
-            '/projects/images/mti-electronics-2.webp',
+            'screen-v2.png',
+            'screen-v2.png',
         ],
     },
     //forth project
