@@ -299,9 +299,9 @@ export const PROJECTS: IProject[] = [
     },
     //forth project
      {
-        title: 'PRO  CAR',
-        slug: 'pro-car',
-        liveUrl: 'http://www.procar.great-site.net/',
+        title: 'carthagea',
+        slug: 'carthagea',
+        liveUrl: 'https://www.carthagea.fr/',
         year: 2025,
         description: `
       A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
@@ -336,19 +336,19 @@ export const PROJECTS: IProject[] = [
       </ul>
       `,
         techStack: [
-            'Next.js',
+            'Laravel',
             'Payload CMS',
-            'Tailwind CSS',
+            'Bootstrap CSS',
             'shadcn',
             'Swiper.js',
             'React Hook Form',
             'Vercel',
         ],
-        thumbnail: '/projects/thumbnail/mti-electronics.webp',
-        longThumbnail: '/projects/long/mti-electronics.webp',
+        thumbnail: '/projects/thumbnail/test2.1c13bc2721b6e7065c9e.png',
+        longThumbnail: '/projects/long/test2.1c13bc2721b6e7065c9e.png',
         images: [
-            '/projects/images/mti-electronics-1.webp',
-            '/projects/images/mti-electronics-2.webp',
+            '/projects/images/test2.1c13bc2721b6e7065c9e.png',
+            '/projects/images/test2.1c13bc2721b6e7065c9e.png',
         ],
     },
     //five project
