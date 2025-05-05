@@ -191,12 +191,12 @@ export const PROJECTS: IProject[] = [
     },
     //second project
      {
-        title: 'PRO  CAR',
-        slug: 'pro-car',
-        liveUrl: 'http://www.procar.great-site.net/',
+        title: 'Portfolio V1',
+        slug: 'Portfilio Issam V1',
+        liveUrl: 'https://portfilio-issam.vercel.app/',
         year: 2025,
         description: `
-      A complete agency portfolio platform built for MTI Electronics to showcase their services, blog content, and product offerings. <br/> <br/>
+      A complete personel portfolio  built for issam khabouchi . <br/> <br/>
       
       Key Features:<br/>
       <ul>
@@ -236,11 +236,11 @@ export const PROJECTS: IProject[] = [
             'React Hook Form',
             'Vercel',
         ],
-        thumbnail: '/projects/thumbnail/mti-electronics.webp',
-        longThumbnail: '/projects/long/mti-electronics.webp',
+        thumbnail: '/projects/thumbnail/portfilio.png',
+        longThumbnail: '/projects/long/portfilio.png',
         images: [
-            '/projects/images/mti-electronics-1.webp',
-            '/projects/images/mti-electronics-2.webp',
+            '/projects/images/portfilio.png',
+            '/projects/images/portfilio.png',
         ],
     },
     //third project
