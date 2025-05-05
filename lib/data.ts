@@ -19,7 +19,34 @@ export const SOCIAL_LINKS = [
 
 export const MY_STACK = {
     frontend: [
-       
+        {
+            name: 'Laravel',
+            icon: '/logo/laravel.png',
+        },
+         {
+            name: 'Codeigniter',
+            icon: '/logo/codeigniter.png',
+        },
+         {
+            name: 'Symfony',
+            icon: '/logo/symfony.png',
+        },
+         {
+            name: 'Javascript',
+            icon: '/logo/laravel.png',
+        },
+         {
+            name: 'Wordpress',
+            icon: '/logo/wordpress.png',
+        },
+        {
+            name: 'PHP',
+            icon: '/logo/PHP.png',
+        },
+         {
+            name: 'Javascript',
+            icon: '/logo/js.png',
+        },
         {
             name: 'Javascript',
             icon: '/logo/js.png',
