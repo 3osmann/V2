@@ -661,8 +661,8 @@ export const PROJECTS: IProject[] = [
             '/projects/images/consulting-finance-2.png',
             '/projects/images/consulting-finance-3.png',
         ],
-        sourceCode: 'https://github.com/Tajmirul/crenotive',
-        liveUrl: 'https://crenotive.netlify.app/',
+        sourceCode: 'https://github.com/3osmann/renotive',
+        liveUrl: 'https://renotive.vercel.app/',
         year: 2023,
         description:
             'I developed Crenotive, a portfolio website using Html, SASS, and jQuery to showcase services and expertise. The design focuses on responsive user experience and effective presentation of professional achievements.',
